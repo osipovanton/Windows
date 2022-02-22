@@ -27,3 +27,17 @@
 ## Удаленный доступ
 
 ![image](https://user-images.githubusercontent.com/79700810/154964727-4f60cfdf-bee0-4e1d-ab71-908aafb32679.png)
+
+## Имя
+
+![image](https://user-images.githubusercontent.com/79700810/155087025-d57121ad-2625-4571-9eec-f741d37f051b.png)
+
+![image](https://user-images.githubusercontent.com/79700810/155087586-1cf090d3-21b3-4184-b6cd-4b00e3fb7311.png)
+
+![image](https://user-images.githubusercontent.com/79700810/155087637-596fb993-8ff0-46af-98f5-6a9e6eab9adc.png)
+
+![image](https://user-images.githubusercontent.com/79700810/155090284-eb3155fa-ca6c-439e-bc00-cebecff786ea.png)
+
+![image](https://user-images.githubusercontent.com/79700810/155090361-9e41a004-fc98-4faf-9485-ac0d67de1be6.png)
+
+![image](https://user-images.githubusercontent.com/79700810/155090396-563f168f-2ecf-4d05-8580-d25b1b6cf6e8.png)
