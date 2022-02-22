@@ -1,6 +1,6 @@
 # Windows server
 # [Download](https://www.microsoft.com/ru-ru/windows-server/trial )
-## Установка ос выполнена в сегменте сети с выходом в интернет и DHCP серевером
+
 При включении виртуальный машины надо нажать любую клавишу для инициализации установки
 
 ![image](https://user-images.githubusercontent.com/79700810/154101731-5b601d2c-5b91-4e4d-a07d-5ed09ccd592f.png)
