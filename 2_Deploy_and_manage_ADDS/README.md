@@ -47,6 +47,7 @@
 ## Развертывание контроллеров домена только для чтения (RODC)
 
 
+![image](https://user-images.githubusercontent.com/79700810/155096687-15e4509a-6fb4-47ac-9fd1-9c68b2d406df.png)
 
 
 
