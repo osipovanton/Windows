@@ -45,3 +45,5 @@
 ![image](https://user-images.githubusercontent.com/79700810/154967596-40efebb7-a450-411f-9bd1-66469339bdc7.png)
 
 
+## Развертывание контроллеров домена только для чтения (RODC)
+
