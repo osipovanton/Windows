@@ -46,7 +46,10 @@
 
 ![image](https://user-images.githubusercontent.com/79700810/154966095-df3a4e10-9ddf-4ea7-a3fe-29791a5b788e.png)
 
+Перед завершение настроек сервер автоматически произведет валидацию конфигурации и даст рекомендации 
+
 ![image](https://user-images.githubusercontent.com/79700810/154966151-e787e998-116d-4988-8733-c9f1b8278217.png)
+
 
 ![image](https://user-images.githubusercontent.com/79700810/154967257-2b4e2fb8-4a3c-4e45-9bf5-5b3324565f17.png)
 
