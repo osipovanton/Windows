@@ -62,3 +62,25 @@
 
 ## Развертывание контроллеров домена только для чтения (RODC)
 
+![image](https://user-images.githubusercontent.com/79700810/155109095-12aa759c-ed1e-43e5-985b-1e0d4a696e66.png)
+
+![image](https://user-images.githubusercontent.com/79700810/155108908-10284e98-7949-48d3-8ff5-e47a164048cf.png)
+
+![image](https://user-images.githubusercontent.com/79700810/155109242-2cc0ac3b-d789-4e78-ae2e-ae603ceb0416.png)
+
+![image](https://user-images.githubusercontent.com/79700810/155109279-e6d67820-5ab2-42ff-8156-64eded7349eb.png)
+
+
+![image](https://user-images.githubusercontent.com/79700810/155109399-fa6fa396-e208-4c09-bab0-f96d33079bff.png)
+
+![image](https://user-images.githubusercontent.com/79700810/155109443-37779426-46cf-4c4b-a5a7-e32e2209154e.png)
+
+![image](https://user-images.githubusercontent.com/79700810/155109466-7db80883-3bf9-47bc-a8c1-fc5f4a12964e.png)
+
+![image](https://user-images.githubusercontent.com/79700810/155109499-5cb00f86-7962-45aa-8849-7b15a8f0c480.png)
+
+
+
+
+
+
