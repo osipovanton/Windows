@@ -1,5 +1,7 @@
 # Windows
 Windows
+![image](https://user-images.githubusercontent.com/79700810/155104607-d977c882-3850-4711-a608-6e637e5c011f.png)
+
 
 ## Тема 0 Установка
 ## Цель
