@@ -30,10 +30,6 @@
 
 ## Имя
 
-![image](https://user-images.githubusercontent.com/79700810/155087025-d57121ad-2625-4571-9eec-f741d37f051b.png)
-
-![image](https://user-images.githubusercontent.com/79700810/155087586-1cf090d3-21b3-4184-b6cd-4b00e3fb7311.png)
-
 ![image](https://user-images.githubusercontent.com/79700810/155087637-596fb993-8ff0-46af-98f5-6a9e6eab9adc.png)
 
 ![image](https://user-images.githubusercontent.com/79700810/155090284-eb3155fa-ca6c-439e-bc00-cebecff786ea.png)
