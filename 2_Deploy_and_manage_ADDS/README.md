@@ -6,9 +6,15 @@
 
 ![image](https://user-images.githubusercontent.com/79700810/154964957-2ea50603-b7c4-42f9-8da6-f95455292dd2.png)
 
+
+
 ![image](https://user-images.githubusercontent.com/79700810/154964987-939d9408-08b9-412e-ae77-68ce42cf33da.png)
 
+Установка и настройка ролей осуществляется на в кладке Manage также есть возможность управлениями несколькими удаленными серверами
+
 ![image](https://user-images.githubusercontent.com/79700810/154965027-d8eb9355-5b67-4102-94f3-54b0f2c7abe4.png)
+
+Установка роли осуществляется отметкой в check box при выборе роли есть краткое описание ее назначения 
 
 ![image](https://user-images.githubusercontent.com/79700810/154965085-a2622606-f2bd-4a8d-a2c2-77284169b627.png)
 
@@ -16,15 +22,19 @@
 
 ![image](https://user-images.githubusercontent.com/79700810/154965133-7425e06f-8225-4583-9fa6-23197fb7b61e.png)
 
+В ходе установки и настройки может понадобиться перезагрузка при установке отметки сервер это сделает в автоматическом режиме 
+
 ![image](https://user-images.githubusercontent.com/79700810/154965154-e8f3c1da-fa5f-42a0-a0ae-abd21da5e0e9.png)
 
 ## настраивать и управлять сайтами AD DS
 
 ![image](https://user-images.githubusercontent.com/79700810/154965381-f6d1cc6c-a081-4a24-b436-1665b48345d1.png)
 
-![image](https://user-images.githubusercontent.com/79700810/154965418-8ad4e6aa-452b-4ef9-a27b-12bade9d0f4b.png)
+После установки роли необходимо ее настроить, а именно указать имя нового домена и создать лес.
 
 ![image](https://user-images.githubusercontent.com/79700810/154965889-6a087975-c671-406d-a7c8-85a852f95c88.png)
+
+Далее выбрать уровень работы леса и домена, задать криптостойки пароль для базы данных 
 
 ![image](https://user-images.githubusercontent.com/79700810/154965994-e47be956-22d8-4999-a1e6-ff677f14955c.png)
 
