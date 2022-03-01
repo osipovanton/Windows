@@ -31,19 +31,19 @@ Windows
 
 2
 
-![image](https://user-images.githubusercontent.com/79700810/156181274-786663d0-aa79-45aa-a381-1df7a619e864.png)
+![image](https://user-images.githubusercontent.com/79700810/156185431-cc354cb8-9377-4402-9576-33599556a545.png)
 
 3
 
-![image](https://user-images.githubusercontent.com/79700810/156181358-212ff985-cb71-4c83-a1a3-c2e50b89503a.png)
+![image](https://user-images.githubusercontent.com/79700810/156185862-d4e3f36e-4872-4592-a8da-4ae514d88e46.png)
 
 4
 
-![image](https://user-images.githubusercontent.com/79700810/156181420-65dbb895-78f7-48df-bc7d-6e25579040b0.png)
+![image](https://user-images.githubusercontent.com/79700810/156186803-9d1120ef-ba1a-4f69-9fae-788f2fc340b7.png)
 
 5
 
-![image](https://user-images.githubusercontent.com/79700810/156181578-43b91e13-bceb-4f7f-bcc0-88feaf909732.png)
+![image](https://user-images.githubusercontent.com/79700810/156186869-cf2f75d2-04ad-4408-843f-7be758294f08.png)
 
 6
 
